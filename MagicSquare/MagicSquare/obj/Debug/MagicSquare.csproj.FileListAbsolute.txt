@@ -1,0 +1,5 @@
+D:\ForMove\MagicSquare\MagicSquare\bin\Debug\MagicSquare.dll
+D:\ForMove\MagicSquare\MagicSquare\bin\Debug\MagicSquare.pdb
+D:\ForMove\MagicSquare\MagicSquare\obj\Debug\ResolveAssemblyReference.cache
+D:\ForMove\MagicSquare\MagicSquare\obj\Debug\MagicSquare.dll
+D:\ForMove\MagicSquare\MagicSquare\obj\Debug\MagicSquare.pdb

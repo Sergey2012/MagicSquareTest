@@ -1,0 +1,9 @@
+D:\ForMove\MagicSquare\TestMagicSquare\bin\Debug\TestMagicSquare.dll
+D:\ForMove\MagicSquare\TestMagicSquare\bin\Debug\TestMagicSquare.pdb
+D:\ForMove\MagicSquare\TestMagicSquare\bin\Debug\MagicSquare.dll
+D:\ForMove\MagicSquare\TestMagicSquare\bin\Debug\nunit.framework.dll
+D:\ForMove\MagicSquare\TestMagicSquare\bin\Debug\MagicSquare.pdb
+D:\ForMove\MagicSquare\TestMagicSquare\bin\Debug\nunit.framework.xml
+D:\ForMove\MagicSquare\TestMagicSquare\obj\Debug\ResolveAssemblyReference.cache
+D:\ForMove\MagicSquare\TestMagicSquare\obj\Debug\TestMagicSquare.dll
+D:\ForMove\MagicSquare\TestMagicSquare\obj\Debug\TestMagicSquare.pdb

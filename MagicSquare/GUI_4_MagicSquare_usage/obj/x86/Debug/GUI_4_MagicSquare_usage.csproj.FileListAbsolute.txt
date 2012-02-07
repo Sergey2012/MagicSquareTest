@@ -1,0 +1,11 @@
+D:\ForMove\MagicSquare\GUI_4_MagicSquare_usage\bin\Debug\GUI_4_MagicSquare_usage.exe
+D:\ForMove\MagicSquare\GUI_4_MagicSquare_usage\bin\Debug\GUI_4_MagicSquare_usage.pdb
+D:\ForMove\MagicSquare\GUI_4_MagicSquare_usage\bin\Debug\MagicSquare.dll
+D:\ForMove\MagicSquare\GUI_4_MagicSquare_usage\bin\Debug\MagicSquare.pdb
+D:\ForMove\MagicSquare\GUI_4_MagicSquare_usage\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ForMove\MagicSquare\GUI_4_MagicSquare_usage\obj\x86\Debug\GUI_4_MagicSquare_usage.Form1.resources
+D:\ForMove\MagicSquare\GUI_4_MagicSquare_usage\obj\x86\Debug\GUI_4_MagicSquare_usage.Properties.Resources.resources
+D:\ForMove\MagicSquare\GUI_4_MagicSquare_usage\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\ForMove\MagicSquare\GUI_4_MagicSquare_usage\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ForMove\MagicSquare\GUI_4_MagicSquare_usage\obj\x86\Debug\GUI_4_MagicSquare_usage.exe
+D:\ForMove\MagicSquare\GUI_4_MagicSquare_usage\obj\x86\Debug\GUI_4_MagicSquare_usage.pdb
